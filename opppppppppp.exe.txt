@@ -1,0 +1,10 @@
+@echo off
+cls
+@echo.
+@echo    ***********************************************
+@echo    ***                                         ***
+@echo    ***  FAVOR NAO FORCAR O TECLADO. OBRIGADO!  ***
+@echo    ***                                         ***
+@echo    ***********************************************
+@echo.
+pause
